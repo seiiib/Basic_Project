@@ -5,5 +5,12 @@
   "main": "index.js",
   "author": "seiib",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "dev": "./node_modules/.bin/nodemon "
+  },
+  "dependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "devDependencies": {}
 }
