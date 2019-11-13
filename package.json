@@ -1,0 +1,9 @@
+{
+  "name": "Basic_Project",
+  "version": "1.0.0",
+  "description": "First Lab of the Nodejs course",
+  "main": "index.js",
+  "author": "seiib",
+  "license": "MIT",
+  "private": true
+}
