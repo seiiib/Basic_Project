@@ -23,4 +23,4 @@ No test for the moment
 * Twitter : @SebastienYe
 
 ## License
-###### No License for the moment
+###### MIT License
