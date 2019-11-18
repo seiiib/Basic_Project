@@ -1,8 +1,8 @@
-#Basic Project
+# H1 Basic Project
 
-##This is the project lab that is gonna be progressively fulfill during the Web Technology course dedicated to Nodejs.
+## H2 This is the project lab that is gonna be progressively fulfill during the Web Technology course dedicated to Nodejs.
 
-###Author : Sebastien Ye
+### H3 Author : Sebastien Ye
 
 The file entry : index.js
 
