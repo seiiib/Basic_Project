@@ -1,7 +1,6 @@
 # Basic Project
 
 #### This is the project lab that is gonna be progressively fulfill during the Web Technology course dedicated to Nodejs.
-#### Author : Sebastien Ye
 
 ## Prerequities
 ######     Before you continue, ensure that you have installed on your machine:
