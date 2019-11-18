@@ -1,8 +1,8 @@
-*Basic Project
+#Basic Project
 
-**This is the project lab that is gonna be progressively fulfill during the Web Technology course dedicated to Nodejs.
+##This is the project lab that is gonna be progressively fulfill during the Web Technology course dedicated to Nodejs.
 
-***Author : Sebastien Ye
+###Author : Sebastien Ye
 
 The file entry : index.js
 
